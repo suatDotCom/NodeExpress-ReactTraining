@@ -1,5 +1,16 @@
 ﻿# NodeExpressSocketIO-ReactTraining
 
-### npm i 
+## Run from source
 
-### cd client/ npm i
+```bash
+$ npm i && (cd client && npm i)
+```
+
+```bash
+$ node server.js
+```
+
+```bash
+$ cd client
+$ npm start
+```
